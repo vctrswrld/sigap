@@ -18,3 +18,6 @@ Salin `.env.example` menjadi `.env.local` sebelum menghubungkan sumber data BMKG
 - `src/data`: konten edukasi dan mitigasi statis.
 - `src/lib`: integrasi BMKG, utilitas, dan chatbot.
 - `src/types`: tipe data aplikasi.
+
+Lihat [visual struktur project](./docs/PROJECT-STRUCTURE.md) untuk diagram arsitektur,
+tree file lengkap, peta domain, dan alur data utama.

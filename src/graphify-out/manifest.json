@@ -1,0 +1,308 @@
+{
+  "app/api/berita/route.ts": {
+    "mtime": 1791291486.456899,
+    "seen": 1791881568.4657972,
+    "ast_hash": "d41d8cd98f00b204e9800998ecf8427e",
+    "semantic_hash": "d41d8cd98f00b204e9800998ecf8427e"
+  },
+  "app/api/chat/route.ts": {
+    "mtime": 1791291486.4008992,
+    "seen": 1791881568.465807,
+    "ast_hash": "d41d8cd98f00b204e9800998ecf8427e",
+    "semantic_hash": "d41d8cd98f00b204e9800998ecf8427e"
+  },
+  "app/api/gempa/route.ts": {
+    "mtime": 1791291486.3408992,
+    "seen": 1791881568.4658117,
+    "ast_hash": "d41d8cd98f00b204e9800998ecf8427e",
+    "semantic_hash": "d41d8cd98f00b204e9800998ecf8427e"
+  },
+  "app/berita/page.tsx": {
+    "mtime": 1791291486.508899,
+    "seen": 1791881568.4658146,
+    "ast_hash": "d41d8cd98f00b204e9800998ecf8427e",
+    "semantic_hash": "d41d8cd98f00b204e9800998ecf8427e"
+  },
+  "app/edukasi/page.tsx": {
+    "mtime": 1791291485.8528996,
+    "seen": 1791881568.4658165,
+    "ast_hash": "d41d8cd98f00b204e9800998ecf8427e",
+    "semantic_hash": "d41d8cd98f00b204e9800998ecf8427e"
+  },
+  "app/edukasi/pengertian/page.tsx": {
+    "mtime": 1791291485.9848993,
+    "seen": 1791881568.4658184,
+    "ast_hash": "d41d8cd98f00b204e9800998ecf8427e",
+    "semantic_hash": "d41d8cd98f00b204e9800998ecf8427e"
+  },
+  "app/edukasi/proses/page.tsx": {
+    "mtime": 1791291485.9168994,
+    "seen": 1791881568.46582,
+    "ast_hash": "d41d8cd98f00b204e9800998ecf8427e",
+    "semantic_hash": "d41d8cd98f00b204e9800998ecf8427e"
+  },
+  "app/gempa/[id]/page.tsx": {
+    "mtime": 1791291486.1688993,
+    "seen": 1791881568.465822,
+    "ast_hash": "d41d8cd98f00b204e9800998ecf8427e",
+    "semantic_hash": "d41d8cd98f00b204e9800998ecf8427e"
+  },
+  "app/gempa/page.tsx": {
+    "mtime": 1791291486.1048994,
+    "seen": 1791881568.4658237,
+    "ast_hash": "d41d8cd98f00b204e9800998ecf8427e",
+    "semantic_hash": "d41d8cd98f00b204e9800998ecf8427e"
+  },
+  "app/layout.tsx": {
+    "mtime": 1791291485.7968996,
+    "seen": 1791881568.4658256,
+    "ast_hash": "d41d8cd98f00b204e9800998ecf8427e",
+    "semantic_hash": "d41d8cd98f00b204e9800998ecf8427e"
+  },
+  "app/loading.tsx": {
+    "mtime": 1791291485.5488997,
+    "seen": 1791881568.465827,
+    "ast_hash": "d41d8cd98f00b204e9800998ecf8427e",
+    "semantic_hash": "d41d8cd98f00b204e9800998ecf8427e"
+  },
+  "app/mitigasi/page.tsx": {
+    "mtime": 1791291486.280899,
+    "seen": 1791881568.4658291,
+    "ast_hash": "d41d8cd98f00b204e9800998ecf8427e",
+    "semantic_hash": "d41d8cd98f00b204e9800998ecf8427e"
+  },
+  "app/not-found.tsx": {
+    "mtime": 1791291485.6608996,
+    "seen": 1791881568.4658308,
+    "ast_hash": "d41d8cd98f00b204e9800998ecf8427e",
+    "semantic_hash": "d41d8cd98f00b204e9800998ecf8427e"
+  },
+  "app/page.tsx": {
+    "mtime": 1791291485.6048996,
+    "seen": 1791881568.4658327,
+    "ast_hash": "d41d8cd98f00b204e9800998ecf8427e",
+    "semantic_hash": "d41d8cd98f00b204e9800998ecf8427e"
+  },
+  "app/penanggulangan/page.tsx": {
+    "mtime": 1791291486.2288992,
+    "seen": 1791881568.4658341,
+    "ast_hash": "d41d8cd98f00b204e9800998ecf8427e",
+    "semantic_hash": "d41d8cd98f00b204e9800998ecf8427e"
+  },
+  "app/tentang/page.tsx": {
+    "mtime": 1791291486.0448995,
+    "seen": 1791881568.465836,
+    "ast_hash": "d41d8cd98f00b204e9800998ecf8427e",
+    "semantic_hash": "d41d8cd98f00b204e9800998ecf8427e"
+  },
+  "components/chatbot/ChatInput.tsx": {
+    "mtime": 1791291485.1449,
+    "seen": 1791881568.4658377,
+    "ast_hash": "d41d8cd98f00b204e9800998ecf8427e",
+    "semantic_hash": "d41d8cd98f00b204e9800998ecf8427e"
+  },
+  "components/chatbot/ChatMessage.tsx": {
+    "mtime": 1791291485.1689,
+    "seen": 1791881568.4658396,
+    "ast_hash": "d41d8cd98f00b204e9800998ecf8427e",
+    "semantic_hash": "d41d8cd98f00b204e9800998ecf8427e"
+  },
+  "components/chatbot/ChatWidget.tsx": {
+    "mtime": 1791291485.1929,
+    "seen": 1791881568.465841,
+    "ast_hash": "d41d8cd98f00b204e9800998ecf8427e",
+    "semantic_hash": "d41d8cd98f00b204e9800998ecf8427e"
+  },
+  "components/edukasi/GelombangDiagram.tsx": {
+    "mtime": 1791291484.6089005,
+    "seen": 1791881568.465843,
+    "ast_hash": "d41d8cd98f00b204e9800998ecf8427e",
+    "semantic_hash": "d41d8cd98f00b204e9800998ecf8427e"
+  },
+  "components/edukasi/InfoSection.tsx": {
+    "mtime": 1791291484.6609004,
+    "seen": 1791881568.4658446,
+    "ast_hash": "d41d8cd98f00b204e9800998ecf8427e",
+    "semantic_hash": "d41d8cd98f00b204e9800998ecf8427e"
+  },
+  "components/edukasi/SkalaMMITable.tsx": {
+    "mtime": 1791291484.6329005,
+    "seen": 1791881568.4658465,
+    "ast_hash": "d41d8cd98f00b204e9800998ecf8427e",
+    "semantic_hash": "d41d8cd98f00b204e9800998ecf8427e"
+  },
+  "components/gempa/FilterBar.tsx": {
+    "mtime": 1791291484.7209003,
+    "seen": 1791881568.465849,
+    "ast_hash": "d41d8cd98f00b204e9800998ecf8427e",
+    "semantic_hash": "d41d8cd98f00b204e9800998ecf8427e"
+  },
+  "components/gempa/GempaCard.tsx": {
+    "mtime": 1791291484.6929004,
+    "seen": 1791881568.4658504,
+    "ast_hash": "d41d8cd98f00b204e9800998ecf8427e",
+    "semantic_hash": "d41d8cd98f00b204e9800998ecf8427e"
+  },
+  "components/gempa/GempaMap.tsx": {
+    "mtime": 1791291484.8089004,
+    "seen": 1791881568.4658525,
+    "ast_hash": "d41d8cd98f00b204e9800998ecf8427e",
+    "semantic_hash": "d41d8cd98f00b204e9800998ecf8427e"
+  },
+  "components/gempa/GempaTable.tsx": {
+    "mtime": 1791291484.7489004,
+    "seen": 1791881568.4658542,
+    "ast_hash": "d41d8cd98f00b204e9800998ecf8427e",
+    "semantic_hash": "d41d8cd98f00b204e9800998ecf8427e"
+  },
+  "components/gempa/ShakemapImage.tsx": {
+    "mtime": 1791291484.7769003,
+    "seen": 1791881568.4658563,
+    "ast_hash": "d41d8cd98f00b204e9800998ecf8427e",
+    "semantic_hash": "d41d8cd98f00b204e9800998ecf8427e"
+  },
+  "components/gempa/StatCard.tsx": {
+    "mtime": 1791291484.8569002,
+    "seen": 1791881568.4658582,
+    "ast_hash": "d41d8cd98f00b204e9800998ecf8427e",
+    "semantic_hash": "d41d8cd98f00b204e9800998ecf8427e"
+  },
+  "components/layout/Footer.tsx": {
+    "mtime": 1791291484.5289006,
+    "seen": 1791881568.46586,
+    "ast_hash": "d41d8cd98f00b204e9800998ecf8427e",
+    "semantic_hash": "d41d8cd98f00b204e9800998ecf8427e"
+  },
+  "components/layout/Navbar.tsx": {
+    "mtime": 1791291484.4769006,
+    "seen": 1791881568.4658613,
+    "ast_hash": "d41d8cd98f00b204e9800998ecf8427e",
+    "semantic_hash": "d41d8cd98f00b204e9800998ecf8427e"
+  },
+  "components/layout/SiteNavbar.tsx": {
+    "mtime": 1791291484.5809004,
+    "seen": 1791881568.4658632,
+    "ast_hash": "d41d8cd98f00b204e9800998ecf8427e",
+    "semantic_hash": "d41d8cd98f00b204e9800998ecf8427e"
+  },
+  "components/mitigasi/ChecklistFase.tsx": {
+    "mtime": 1791291485.2849,
+    "seen": 1791881568.4658647,
+    "ast_hash": "d41d8cd98f00b204e9800998ecf8427e",
+    "semantic_hash": "d41d8cd98f00b204e9800998ecf8427e"
+  },
+  "components/mitigasi/KontakDarurat.tsx": {
+    "mtime": 1791291485.2609,
+    "seen": 1791881568.4658663,
+    "ast_hash": "d41d8cd98f00b204e9800998ecf8427e",
+    "semantic_hash": "d41d8cd98f00b204e9800998ecf8427e"
+  },
+  "components/mitigasi/TasSiaga.tsx": {
+    "mtime": 1791291485.2169,
+    "seen": 1791881568.465868,
+    "ast_hash": "d41d8cd98f00b204e9800998ecf8427e",
+    "semantic_hash": "d41d8cd98f00b204e9800998ecf8427e"
+  },
+  "components/ui/Badge.tsx": {
+    "mtime": 1791291485.0049002,
+    "seen": 1791881568.46587,
+    "ast_hash": "d41d8cd98f00b204e9800998ecf8427e",
+    "semantic_hash": "d41d8cd98f00b204e9800998ecf8427e"
+  },
+  "components/ui/Button.tsx": {
+    "mtime": 1791291485.0489001,
+    "seen": 1791881568.4658713,
+    "ast_hash": "d41d8cd98f00b204e9800998ecf8427e",
+    "semantic_hash": "d41d8cd98f00b204e9800998ecf8427e"
+  },
+  "components/ui/Card.tsx": {
+    "mtime": 1791291485.0969,
+    "seen": 1791881568.465873,
+    "ast_hash": "d41d8cd98f00b204e9800998ecf8427e",
+    "semantic_hash": "d41d8cd98f00b204e9800998ecf8427e"
+  },
+  "components/ui/Skeleton.tsx": {
+    "mtime": 1791291484.9569001,
+    "seen": 1791881568.465875,
+    "ast_hash": "d41d8cd98f00b204e9800998ecf8427e",
+    "semantic_hash": "d41d8cd98f00b204e9800998ecf8427e"
+  },
+  "components/ui/Tabs.tsx": {
+    "mtime": 1791291484.9089003,
+    "seen": 1791881568.465877,
+    "ast_hash": "d41d8cd98f00b204e9800998ecf8427e",
+    "semantic_hash": "d41d8cd98f00b204e9800998ecf8427e"
+  },
+  "data/faq-gempa.json": {
+    "mtime": 1791291485.3888998,
+    "seen": 1791881568.4658785,
+    "ast_hash": "d41d8cd98f00b204e9800998ecf8427e",
+    "semantic_hash": "d41d8cd98f00b204e9800998ecf8427e"
+  },
+  "data/kontak-darurat.ts": {
+    "mtime": 1791291485.4169,
+    "seen": 1791881568.4658804,
+    "ast_hash": "d41d8cd98f00b204e9800998ecf8427e",
+    "semantic_hash": "d41d8cd98f00b204e9800998ecf8427e"
+  },
+  "data/mitigasi.ts": {
+    "mtime": 1791291485.3328998,
+    "seen": 1791881568.465882,
+    "ast_hash": "d41d8cd98f00b204e9800998ecf8427e",
+    "semantic_hash": "d41d8cd98f00b204e9800998ecf8427e"
+  },
+  "data/skala-mmi.ts": {
+    "mtime": 1791291485.3088999,
+    "seen": 1791881568.465884,
+    "ast_hash": "d41d8cd98f00b204e9800998ecf8427e",
+    "semantic_hash": "d41d8cd98f00b204e9800998ecf8427e"
+  },
+  "hooks/useChat.ts": {
+    "mtime": 1791291484.4249005,
+    "seen": 1791881568.4658873,
+    "ast_hash": "d41d8cd98f00b204e9800998ecf8427e",
+    "semantic_hash": "d41d8cd98f00b204e9800998ecf8427e"
+  },
+  "lib/bmkg.ts": {
+    "mtime": 1791291484.1889007,
+    "seen": 1791881568.465889,
+    "ast_hash": "d41d8cd98f00b204e9800998ecf8427e",
+    "semantic_hash": "d41d8cd98f00b204e9800998ecf8427e"
+  },
+  "lib/chat/fallback.ts": {
+    "mtime": 1791291484.2449007,
+    "seen": 1791881568.4658911,
+    "ast_hash": "d41d8cd98f00b204e9800998ecf8427e",
+    "semantic_hash": "d41d8cd98f00b204e9800998ecf8427e"
+  },
+  "lib/chat/llm.ts": {
+    "mtime": 1791291484.3049006,
+    "seen": 1791881568.465893,
+    "ast_hash": "d41d8cd98f00b204e9800998ecf8427e",
+    "semantic_hash": "d41d8cd98f00b204e9800998ecf8427e"
+  },
+  "lib/chat/prompt.ts": {
+    "mtime": 1791291484.3649006,
+    "seen": 1791881568.465895,
+    "ast_hash": "d41d8cd98f00b204e9800998ecf8427e",
+    "semantic_hash": "d41d8cd98f00b204e9800998ecf8427e"
+  },
+  "lib/utils.ts": {
+    "mtime": 1791291484.136901,
+    "seen": 1791881568.4658964,
+    "ast_hash": "d41d8cd98f00b204e9800998ecf8427e",
+    "semantic_hash": "d41d8cd98f00b204e9800998ecf8427e"
+  },
+  "types/chat.ts": {
+    "mtime": 1791291485.4968998,
+    "seen": 1791881568.4658988,
+    "ast_hash": "d41d8cd98f00b204e9800998ecf8427e",
+    "semantic_hash": "d41d8cd98f00b204e9800998ecf8427e"
+  },
+  "types/gempa.ts": {
+    "mtime": 1791291485.4448998,
+    "seen": 1791881568.465901,
+    "ast_hash": "d41d8cd98f00b204e9800998ecf8427e",
+    "semantic_hash": "d41d8cd98f00b204e9800998ecf8427e"
+  }
+}

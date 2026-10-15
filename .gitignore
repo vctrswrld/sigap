@@ -41,4 +41,10 @@ yarn-error.log*
 *.tsbuildinfo
 next-env.d.ts
 
+#ai
+.agents
+.specify
+.graphify-out
+AGENTS.md*
+
 /src/generated/prisma

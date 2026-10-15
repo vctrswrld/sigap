@@ -1,0 +1,212 @@
+{
+  "communities": {
+    "0": [
+      "app_api_berita_route"
+    ],
+    "1": [
+      "app_api_chat_route"
+    ],
+    "2": [
+      "app_api_gempa_route"
+    ],
+    "3": [
+      "app_berita_page"
+    ],
+    "4": [
+      "app_edukasi_page"
+    ],
+    "5": [
+      "app_edukasi_pengertian_page"
+    ],
+    "6": [
+      "app_edukasi_proses_page"
+    ],
+    "7": [
+      "app_gempa_id_page"
+    ],
+    "8": [
+      "app_gempa_page"
+    ],
+    "9": [
+      "app_layout"
+    ],
+    "10": [
+      "app_loading"
+    ],
+    "11": [
+      "app_mitigasi_page"
+    ],
+    "12": [
+      "app_not_found"
+    ],
+    "13": [
+      "app_page"
+    ],
+    "14": [
+      "app_penanggulangan_page"
+    ],
+    "15": [
+      "app_tentang_page"
+    ],
+    "16": [
+      "components_chatbot_chatinput"
+    ],
+    "17": [
+      "components_chatbot_chatmessage"
+    ],
+    "18": [
+      "components_chatbot_chatwidget"
+    ],
+    "19": [
+      "components_edukasi_gelombangdiagram"
+    ],
+    "20": [
+      "components_edukasi_infosection"
+    ],
+    "21": [
+      "components_edukasi_skalammitable"
+    ],
+    "22": [
+      "components_gempa_filterbar"
+    ],
+    "23": [
+      "components_gempa_gempacard"
+    ],
+    "24": [
+      "components_gempa_gempamap"
+    ],
+    "25": [
+      "components_gempa_gempatable"
+    ],
+    "26": [
+      "components_gempa_shakemapimage"
+    ],
+    "27": [
+      "components_gempa_statcard"
+    ],
+    "28": [
+      "components_layout_footer"
+    ],
+    "29": [
+      "components_layout_navbar"
+    ],
+    "30": [
+      "components_layout_sitenavbar"
+    ],
+    "31": [
+      "components_mitigasi_checklistfase"
+    ],
+    "32": [
+      "components_mitigasi_kontakdarurat"
+    ],
+    "33": [
+      "components_mitigasi_tassiaga"
+    ],
+    "34": [
+      "components_ui_badge"
+    ],
+    "35": [
+      "components_ui_button"
+    ],
+    "36": [
+      "components_ui_card"
+    ],
+    "37": [
+      "components_ui_skeleton"
+    ],
+    "38": [
+      "components_ui_tabs"
+    ],
+    "39": [
+      "data_kontak_darurat"
+    ],
+    "40": [
+      "data_mitigasi"
+    ],
+    "41": [
+      "data_skala_mmi"
+    ],
+    "42": [
+      "hooks_usechat"
+    ],
+    "43": [
+      "lib_bmkg"
+    ],
+    "44": [
+      "lib_chat_fallback"
+    ],
+    "45": [
+      "lib_chat_llm"
+    ],
+    "46": [
+      "lib_chat_prompt"
+    ],
+    "47": [
+      "lib_utils"
+    ],
+    "48": [
+      "types_chat"
+    ],
+    "49": [
+      "types_gempa"
+    ]
+  },
+  "cohesion": {
+    "0": 1.0,
+    "1": 1.0,
+    "2": 1.0,
+    "3": 1.0,
+    "4": 1.0,
+    "5": 1.0,
+    "6": 1.0,
+    "7": 1.0,
+    "8": 1.0,
+    "9": 1.0,
+    "10": 1.0,
+    "11": 1.0,
+    "12": 1.0,
+    "13": 1.0,
+    "14": 1.0,
+    "15": 1.0,
+    "16": 1.0,
+    "17": 1.0,
+    "18": 1.0,
+    "19": 1.0,
+    "20": 1.0,
+    "21": 1.0,
+    "22": 1.0,
+    "23": 1.0,
+    "24": 1.0,
+    "25": 1.0,
+    "26": 1.0,
+    "27": 1.0,
+    "28": 1.0,
+    "29": 1.0,
+    "30": 1.0,
+    "31": 1.0,
+    "32": 1.0,
+    "33": 1.0,
+    "34": 1.0,
+    "35": 1.0,
+    "36": 1.0,
+    "37": 1.0,
+    "38": 1.0,
+    "39": 1.0,
+    "40": 1.0,
+    "41": 1.0,
+    "42": 1.0,
+    "43": 1.0,
+    "44": 1.0,
+    "45": 1.0,
+    "46": 1.0,
+    "47": 1.0,
+    "48": 1.0,
+    "49": 1.0
+  },
+  "gods": [],
+  "surprises": [],
+  "tokens": {
+    "input": 0,
+    "output": 0
+  }
+}
